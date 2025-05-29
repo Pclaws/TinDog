@@ -1,5 +1,5 @@
 # TinDog Project
-Here’s a long description you can use for your TinDog project on GitHub:
+Here’s a  description  for TinDog project on GitHub:
 
 ---
 
